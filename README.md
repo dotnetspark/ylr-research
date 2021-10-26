@@ -1,0 +1,6 @@
+- 👋 Hi there,
+- 💎 I'm specialized in .NET, Azure and Blazor
+- 🔭 I’m interested in IoT and Space industry
+- 🌱 I’m currently learning Docker, Kubernetes, Microservices
+- 💁🏻 I’m looking to collaborate on any repo
+- 📫 You can reach me at ylr.research@outlook.com
